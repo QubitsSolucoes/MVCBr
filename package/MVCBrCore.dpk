@@ -32,6 +32,7 @@ package MVCBrCore;
 {$IMPLICITBUILD OFF}
 
 requires
+  DesignIDE,
   rtl,
   vcl,
   fmx,
